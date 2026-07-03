@@ -49,7 +49,6 @@ Additional projects will be added as I continue expanding this portfolio.
 
 ## Certifications
 
-Certificates will be added here as they are completed.
 
 ---
 
