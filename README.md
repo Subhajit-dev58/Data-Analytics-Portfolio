@@ -54,6 +54,6 @@ Additional projects will be added as I continue expanding this portfolio.
 
 ## Connect
 
-**Tableau Public:** *(Tableau Public link)*
+**Tableau Public:** *https://public.tableau.com/app/profile/subhajit.parial/vizzes*
 
 **LinkedIn:** *(LinkedIn profile link)*
